@@ -1,3 +1,0 @@
-# Hello World
-## We're here
-I don't really have anything else to put here right now...
