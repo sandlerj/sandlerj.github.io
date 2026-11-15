@@ -1,0 +1,11 @@
+:root {
+  --background: #000000;
+  --foreground: #ffffff;
+  --accent: #27b944;
+}
+
+.dotted-border {
+  border-style: dotted;
+  border-color: var(--accent);
+  padding: 10px;
+}
